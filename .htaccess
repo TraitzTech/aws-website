@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+
+# Serve files from the root directory
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ public/$1 [L]
