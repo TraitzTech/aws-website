@@ -24,7 +24,7 @@ class ContactController extends Controller
         $mail = new GeneralMailNotifier(config('app.name').' - Contact Form Submission', 'contact-mail', $data);
 
         // Send the email to the website's email address
-        Mail::to('yourwebsiteemail@example.com')->send($mail);
+        Mail::to('info@traitz.tech')->send($mail);
 
         return redirect()->back()->with('success', 'Your message has been sent successfully!');
     }
