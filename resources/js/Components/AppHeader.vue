@@ -61,7 +61,7 @@
     },
     data() {
       return {
-        logo: '/assets/img/logo.png',
+        logo: 'assets/img/logo.png',
         showMenu: false,
         currentRoute: ''
       };

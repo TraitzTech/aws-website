@@ -3,7 +3,7 @@
         <h3 class="font-semibold text-4xl text-center">Sponsor Our Club</h3>
         <p class="mb-3 text-center font-semibold text-faintblue">Have a peek of all activities we carry out on Campus</p>
         <div class="flex flex-col w-full md:h-[443px] justify-center items-center md:flex-row md:space-x-6 mt-9">
-            <img src="/assets/img/sponsor.png" class="w-full md:w-1/3" />
+            <img src="assets/img/sponsor.png" class="w-full md:w-1/3" />
             <div class="flex flex-col w-[330px] md:w-1/3 bg-[#D9D9D9] rounded-lg">
                 <p class="p-9 text-faintblue">
                     Your contributions are invaluable! We rely on the generosity of

@@ -6,7 +6,7 @@
             </h1>
         </div>
         <div class="flex flex-col md:flex-row justify-center items-center p-4">
-            <img src="/assets/img/about/about.png" alt="About Hero" class="w-full md:w-1/3"/>
+            <img src="assets/img/about/about.png" alt="About Hero" class="w-full md:w-1/3"/>
             <p class="w-full md:w-1/3 mt-4 md:mt-0 md:text-start text-center p-2 md:p-9 font-semibold">
                 Our club is dedicated to helping the Bamenda community and beyond with basic knowledge
                 on cloud though regularly hoisted free workshops. We foster a community of passionate
